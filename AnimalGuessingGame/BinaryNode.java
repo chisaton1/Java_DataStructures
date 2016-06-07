@@ -2,7 +2,7 @@ import java.io.Serializable;
 /**
  * Each of instances of this class stored E item and two BinaryNode<E>
  * It allows to use the Serialization.
- *
+ *h
  * YesかNoで答えていき、最終的に動物を当てるプログラム
  * 二分木の実装演習
  * 
