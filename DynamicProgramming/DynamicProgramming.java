@@ -2,7 +2,7 @@
  * The program which solves rod-cutting problem
  * using DynamicProgramming algorithm.
  *
- * 再帰の演習
+ * 動的計画法の演習
  * 有名なロッド切り出し問題
  *
  * @author chisaton
